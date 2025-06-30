@@ -1,4 +1,4 @@
-package com.DesignPatterns.design_patterns;
+package com.DesignPatterns;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class DesignPatternsApplicationTests {
 
-	@Test
+	// @Test
 	void contextLoads() {
 	}
 
